@@ -5,7 +5,7 @@
 <img src="https://github.com/Amarnath-Rao/Trawhiz-Prototype/assets/96937608/13fbfe18-65df-48df-af94-8d20100ae9c5" alt="Image 1" style="width: 49%; height: auto; padding-left:20%;">
 <img src="https://github.com/Amarnath-Rao/Trawhiz-Prototype/assets/96937608/2e81b7c5-2d68-454d-a02a-4fb4bb4f4c21" alt="Image 2" style="width: 49%; height: auto;">
 
-<h3>User Interaction:</h3> 
+<h3>User Interaction:</h3>        
 Engage with the chatbot by sharing your travel preferences, budget constraints, desired activities, and more. The more information you provide, the better the chatbot can tailor its recommendations to suit your needs.
 
 <h3>Recommendation Engine:</h3>
