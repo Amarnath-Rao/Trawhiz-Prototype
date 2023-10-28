@@ -1,6 +1,6 @@
 ## We are excited to introduce our latest project—a prototype of a personalized travel recommendation chatbot! This innovative chatbot is designed to assist you in planning your dream vacations by engaging in natural and interactive conversations.
 
-<p href="https://github.com/Amarnath-Rao/Trawhiz-main">Main repo</p>
+<p>Main repo: https://github.com/Amarnath-Rao/Trawhiz-main</p>
 <h3>Key Features:</h3>
 
 <img src="https://github.com/Amarnath-Rao/Trawhiz-Prototype/assets/96937608/13fbfe18-65df-48df-af94-8d20100ae9c5" alt="Image 1" style="width: 49%; height: auto; padding-left:20%;">
